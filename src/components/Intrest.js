@@ -39,7 +39,7 @@ function Contact() {
 
   return (
     <div className="App">
-      <h1>Contact</h1>
+      <h1>Interest Check</h1>
       <input
         placeholder="first"
         onChange={(event) => {

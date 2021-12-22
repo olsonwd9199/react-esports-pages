@@ -53,7 +53,7 @@ const Navbar = () => {
             Feedback
           </NavLink> 
           <NavLink to='/intrest' activeStyle>
-            Intrest Check
+            Interest Check
           </NavLink> 
 
           {/* Second Nav */}
