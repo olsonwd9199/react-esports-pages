@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-esports-pages/static/css/main.1c039bed.chunk.css",
+    "main.js": "/react-esports-pages/static/js/main.28b73090.chunk.js",
+    "main.js.map": "/react-esports-pages/static/js/main.28b73090.chunk.js.map",
+    "runtime-main.js": "/react-esports-pages/static/js/runtime-main.8105d7e8.js",
+    "runtime-main.js.map": "/react-esports-pages/static/js/runtime-main.8105d7e8.js.map",
+    "static/js/2.b58794e2.chunk.js": "/react-esports-pages/static/js/2.b58794e2.chunk.js",
+    "static/js/2.b58794e2.chunk.js.map": "/react-esports-pages/static/js/2.b58794e2.chunk.js.map",
+    "static/js/3.9782cbfc.chunk.js": "/react-esports-pages/static/js/3.9782cbfc.chunk.js",
+    "static/js/3.9782cbfc.chunk.js.map": "/react-esports-pages/static/js/3.9782cbfc.chunk.js.map",
+    "index.html": "/react-esports-pages/index.html",
+    "static/css/main.1c039bed.chunk.css.map": "/react-esports-pages/static/css/main.1c039bed.chunk.css.map",
+    "static/js/2.b58794e2.chunk.js.LICENSE.txt": "/react-esports-pages/static/js/2.b58794e2.chunk.js.LICENSE.txt",
+    "static/media/apex.c481fd5d.jpg": "/react-esports-pages/static/media/apex.c481fd5d.jpg",
+    "static/media/csgo.96b07480.jfif": "/react-esports-pages/static/media/csgo.96b07480.jfif",
+    "static/media/discord.7b6f08e6.jpg": "/react-esports-pages/static/media/discord.7b6f08e6.jpg",
+    "static/media/facebook.3c0e49c8.png": "/react-esports-pages/static/media/facebook.3c0e49c8.png",
+    "static/media/instagram.6b754ec3.png": "/react-esports-pages/static/media/instagram.6b754ec3.png",
+    "static/media/labHours.fa91c2c2.png": "/react-esports-pages/static/media/labHours.fa91c2c2.png",
+    "static/media/leauge.98713174.jfif": "/react-esports-pages/static/media/leauge.98713174.jfif",
+    "static/media/overwatch.4b3c35e3.jfif": "/react-esports-pages/static/media/overwatch.4b3c35e3.jfif",
+    "static/media/rocket.3f313b11.jpg": "/react-esports-pages/static/media/rocket.3f313b11.jpg",
+    "static/media/smash.0a578034.jpg": "/react-esports-pages/static/media/smash.0a578034.jpg",
+    "static/media/twitch.7158c8d3.png": "/react-esports-pages/static/media/twitch.7158c8d3.png",
+    "static/media/uwec.203e5f69.jpg": "/react-esports-pages/static/media/uwec.203e5f69.jpg",
+    "static/media/valorant.6d4f789f.jpg": "/react-esports-pages/static/media/valorant.6d4f789f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8105d7e8.js",
+    "static/js/2.b58794e2.chunk.js",
+    "static/css/main.1c039bed.chunk.css",
+    "static/js/main.28b73090.chunk.js"
+  ]
+}
