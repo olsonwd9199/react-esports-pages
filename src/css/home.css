@@ -1,0 +1,56 @@
+/* image css */
+
+#home{
+    /*background-image: url("https://q8rkuwu1ti4vaqw33x41zocd-wpengine.netdna-ssl.com/esports/files/2020/07/190426_2478_RS-1.jpg");
+    */
+    background-image: url("https://th.bing.com/th/id/R.0e6a458949140fc06b4d62b8c0e45a3a?rik=yjSXhALbUIpL1Q&riu=http%3a%2f%2fpowerupgaming.co.uk%2fwp-content%2fuploads%2fesports-1024x683.jpg&ehk=7mJasi643PS%2fsixnUF1%2feR2JmuXgtnOnBA1XXriTQIQ%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#about{
+  color: white;
+  background-image: url("https://images.theconversation.com/files/360542/original/file-20200929-20-8q3fjz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+/* .sidebar{
+    width: 100%;
+    height: 88%;
+  }
+  .sidebar img{
+    width: 100%;
+    height: auto;
+  }
+  @supports(object-fit: cover){
+      .sidebar img{
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+      }
+  } */
+  /* Trying this out to center the youtube */
+  .ytvideo{
+    align-items: center;
+      
+    
+      
+  }
+
+  #contact{
+    color: white;
+    font-size: large;
+      background: blue;
+      background-image: url("https://cdn-images-1.medium.com/max/2000/1*oUDCYfT9--7JNBOGEXBr-Q.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #service{
+    background: #eaf1ff;
+  }
+  element.style{
+    width:0px;
+    height: 0px;
+  }
