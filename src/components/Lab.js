@@ -24,7 +24,7 @@ class Lab extends Component {
 
 			<navigation class="navigation">
 
-            <h1>Check the lab hours</h1>
+            <h1>Check the labs hours</h1>
                 <img src={labHours} alt="labHours" width="230px" height= "230"></img>
                 
             
