@@ -38,7 +38,7 @@ class Overwatch extends Component {
                 Join the compedative overwatch team to recieve dedicated coaching and gain experience in a fast pased team enviroment.
                 <br></br>
                 <br></br>
-                Looking for something a little more relaxed? The club hosts monthly events for player of all skill levels to play and earn prizes.
+                Looking for something a little more relaxed? The club hosts monthly events for player of all skill levels  to play games and earn prizes.
                 </p>
             </main>
 			<aside class="sidebar">
